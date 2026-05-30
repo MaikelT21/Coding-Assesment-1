@@ -10,13 +10,18 @@ Hei whakatakinga kōrero ka uru ki te whare wānanga o P5js, te wāhi e āhuru a
 
 Koinei ngā putanga mahi e toru i kapohia mai **P5JS** i tēnei wahanga: 
 
-1. Ka tīmata ki tēnei āhua porowhita e neke mai runga ki raro, e tīni hoki i tōna tae i au e uru tonu ki ngā wai pāpaku o te waehere (Coding). I whakamahia au i te reo tauāki (If statements), anōhoki te huringa tae matapōkere(Random) hei whakahihiko ai te putanga. 
+1. Ka tīmata ki tēnei āhua porowhita e neke mai runga ki raro, e tīni hoki i tōna tae. I whakamahia au i te reo tauāki (If statements), anōhoki te huringa tae matapōkere(Random) hei whakahihiko ai tēnei putanga. 
 
-2. Ka ruku atu ki ngā mahi o te wiki tuawhā, ki ngā mahi koromeke whai hua(Loops + For loops). He huinga rārangi tapatahi te āhua, e huri matapōkere ai ngā tae me he poutama, he pākati te hanga. Ahakoa te ngāwari, te māmā o te whakaahuatanga nei he hononga tonu tāku ki te whakatakotoranga o ngā momo pūtaketake, kia whakapuaki te whakaaro ki te whakaahua i ngā tohu whakahirahira o Te Ao Māori mā te tuitui i ngā mōhiotanga ki ngā rauemi a te ipurangi.
+2. Ka ruku ki ngā mahi o te wiki tuawhā, ki ngā mahi koromeke whai hua(Loops + For loops). He huinga rārangi tapatahi kua tuituia me he tukutuku te hanga, ara, nā te whakapiki i te rahi o ēnei rārangi ka puta he āhua tapawhā. He pākati, he ūnaunahi anō te hanga. 
 
-3. Ka tahuri ki te wiki tuaono. He urunga ki ngā akoranga hurihanga (Rotate), he urunga ki ngā akoranga nekehanga (Translate) hoki. I whakauru au i te āhua porowhita, te āhua tapawhā, me tētahi rārangi mā e tipu ia te wā ka neke, ka huri porotaka ai ngā āhuahanga i te kānawehi (canvas). I whakauru hoki au i tētahi tohu whakawātea kia mā te papa i te wā pēhi i te pātene, kia tautuhi anō te papa.
+3. Ka tahuri ki te wiki tuaono. He urunga ki ngā akoranga hurihanga (Rotate), he urunga ki ngā akoranga nekehanga (Translate) hoki. I whakauru au i te āhua porowhita, te āhua tapawhā, me tētahi rārangi mā ka torotoro ia te wā ka neke, ka huri porotaka ai ngā āhuahanga i te kānawehi (canvas). I whakauru hoki au i tētahi tohu whakawātea kia mā te papa i te wā pēhi i te pātene, kia tautuhi anō te papa.
 
 Ka whakawhiti ki te pūmanawa rorohiko a **Touch Designer** me ōna whakaputanga e toru:
 
+4. Tuatahi ake ka tiro ki te wiki tuawaru. I ako i ngā ture TOPs o te papariki (Tiles), te hanganga (Comp) hoki, kia tūhono ki ngā CHOPs o te taumata (level) me te LFO. Mā konei ka whakamātauria te whakakopa (clamp), te kōpekapeka (zigzag), waihoki te nekehanga o te waehere ka tuku.
+
+5. 
 
 
+
+Ahakoa te ngāwari, te māmā o ēnei whakaahuatanga, ka whai hononga tonu ki te whakatakotoranga o ngā momo pūtaketake. Kua puaki te whakaaro ki te whakaahua i ngā tohu whakahirahira o Te Ao Māori mā te tuitui i te mātauranga ki ngā rauemi matihiko.
