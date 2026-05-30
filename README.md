@@ -10,7 +10,7 @@ Hei whakatakinga kōrero ka uru ki te whare wānanga o P5js, te wāhi e āhuru a
 
 Koinei ngā putanga mahi e toru i kapohia mai **P5JS** i tēnei wahanga: 
 
-1. Ka huri ki tēnei āhua porowhita e neke mai runga ki raro, e tīni hoki i tōna tae i au e uru tonu ki ngā wai pāpaku o te waehere (Coding). I whakamahia au i te reo tauāki (If statements), anōhoki te huringa tae matapōkere(Random) hei whakahihiko ai te putanga. 
+1. Ka tīmata ki tēnei āhua porowhita e neke mai runga ki raro, e tīni hoki i tōna tae i au e uru tonu ki ngā wai pāpaku o te waehere (Coding). I whakamahia au i te reo tauāki (If statements), anōhoki te huringa tae matapōkere(Random) hei whakahihiko ai te putanga. 
 
 2. Ka ruku atu ki ngā mahi o te wiki tuawhā, ki ngā mahi koromeke whai hua(Loops + For loops). He huinga rārangi tapatahi te āhua, e huri matapōkere ai ngā tae me he poutama, he pākati te hanga. Ahakoa te ngāwari, te māmā o te whakaahuatanga nei he hononga tonu tāku ki te whakatakotoranga o ngā momo pūtaketake, kia whakapuaki te whakaaro ki te whakaahua i ngā tohu whakahirahira o Te Ao Māori mā te tuitui i ngā mōhiotanga ki ngā rauemi a te ipurangi.
 
