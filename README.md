@@ -12,10 +12,10 @@ Koinei ngā putanga mahi e toru i kapohia mai **P5JS** i tēnei wahanga:
 
 Ka whakawhiti ki te pūmanawa rorohiko a **Touch Designer** me ōna whakaputanga e toru:
 
-4. Tuatahi ake ka tiro ki te wiki tuawaru. I ako i ngā ture TOPs o te papariki (Tiles), te hanganga (Comp) hoki, kia tūhono ki ngā CHOPs o te taumata (level) me te LFO. Mā konei ka whakamātauria te whakakopa (clamp), te kōpekapeka (zigzag), waihoki te nekehanga o te waehere ka tuku.
+4. Tuatahi ake ka tiro ki te wiki tuawaru. I ako i ngā ture TOPs o te papariki (Tiles), te hanganga (Comp) hoki, kia tūhono ki ngā CHOPs o te taumata (level) me te LFO. Mā konei ka whakamātauria i ngā wahanga whakakopa (clamp), kōpekapeka (zigzag), waihoki te nekehanga o te waehere kia hihiri ai te putanga.
 
 5. I te wiki tuaiwa i ako i ngā tikanga o te whakahoki (feedback), me te heihei ataata (visual noise). Ka pūrehurehu i ēnei tīpona (nodes), ara, ka piria i ētahi āhua porohita ki waenganui. Nā te whakatoroa i ēnei āhua me te whakauru i te rerenga " AbsTime.seconds"  ki te wahanga hurihanga o te tīpona, ka kōmitimiti kia rīpeka te hanga. 
 
-6. Hei whakakapi ka huri ki te wiki tua ngāhuru mā tahi. I hanga au i tētahi whakaaturanga papariki e whakamahi ana i ngā SOPs kia whakaahua i tāku tīrake (sphere). Ka tūhono ki te tīpona pūmau (Constant) o CHOPs. Ka hono ki te āhuahanga (geometry) o COMP. Ka mutu, ka tūhono ki te tohu rauemi (Material) kia huria ki ngā tae karaka, me te pango.
+6. Hei whakakapi, ka huri ki te wiki tua ngāhuru mā tahi. I hanga au i tētahi whakaaturanga papariki e whakamahi ana i ngā SOPs kia whakaahua i tētahi tīrake (sphere). Ka tūhono ki te tīpona pūmau (Constant) o CHOPs. Ka hono ki te āhuahanga (geometry) o COMP. Ka mutu, ka tūhono ki te tohu rauemi (Material) kia karaka te tīrake. Ka tawhiti te āhua mai te kāmera, ka pango te āhua. I te hokinga mai ka hoki karaka anō. Koinei ka puta te whakaaro auaha kua ngaro atu ki te kore.
 
-Ahakoa te ngāwari, te māmā o ēnei whakaahuatanga, ka whai hononga tonu ki te whakatakotoranga o ngā momo pūtaketake. Kua puaki te whakaaro ki te whakaahua i ngā tohu whakahirahira o Te Ao Māori mā te tuitui i te mātauranga ki ngā rauemi matihiko.
+Ahakoa te ngāwari, te māmā o ēnei whakaahuatanga, ka whai hononga tonu au ki te whakatakotoranga o ngā momo pūtaketake. Kua puaki te whakaaro ki te whakaahua i ngā tohu whakahirahira o Te Ao Māori mā te tuitui i te mātauranga ki ngā rauemi matihiko.
