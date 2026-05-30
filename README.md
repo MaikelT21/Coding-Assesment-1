@@ -6,7 +6,7 @@ Then click "commit changes", then select "Commit directly to the main branch" an
 
 I te tīmatanga o tēnei haerenga i aro mātou ki te āhuatanga hopu mātauranga a te rorohiko, nā tērā i whakatūwhera i ngā whakaaro kia whai tikanga, kia whai i ngā tohutohu o āku pia, i tōku kaiako, kia para i te huarahi tika o te whakaahua.
 
-Hei whakatakinga kōrero ka uru ki te whare wānanga o P5js, te wāhi e āhuru ai i ngā putanga whaiaro o te tangata, waihoki te ōrokohanga ki tāku whakapuakitanga ki ngā whakaaro whānui e hihiri nei te arotau. 
+Hei whakatakinga kōrero ka uru ki te whare wānanga o P5js, te wāhi e āhuru ai i ngā putanga whaiaro o te tangata, waihoki te ōrokohanga o tāku whakapuakitanga ki ngā whakaaro whānui e hihiri nei te arotau. 
 
 Koinei ngā putanga mahi e toru i kapohia mai **P5JS** i tēnei wahanga: 
 
